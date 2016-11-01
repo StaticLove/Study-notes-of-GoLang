@@ -1,5 +1,5 @@
 # StudyNotes of GoLang
 
-Hello World! Go Crazy!
+Hello World! Crazy Go!
 
 ![niuer](../resource/picture/niuer_1.jpeg)
