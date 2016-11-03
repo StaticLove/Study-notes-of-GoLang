@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # get the date of last monday
 import time
 from datetime import datetime,date
