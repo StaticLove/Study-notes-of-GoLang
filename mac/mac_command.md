@@ -14,3 +14,4 @@
     
     shell 的 preference：Cmd + i
 
+### mac用法`
